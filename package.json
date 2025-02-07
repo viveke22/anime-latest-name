@@ -1,0 +1,19 @@
+{
+  "name": "anime-latest-name",
+  "version": "1.0.0",
+  "description": "a package which give random or full list of anime names and genere's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viveke22/anime-latest-name.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viveke22/anime-latest-name/issues"
+  },
+  "homepage": "https://github.com/viveke22/anime-latest-name#readme"
+}
