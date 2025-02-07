@@ -11,7 +11,7 @@
     "url": "git+https://github.com/viveke22/anime-latest-name.git"
   },
   "author": "vivek",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": ["random","anime","random anime names", "anime names"],
   "bugs": {
     "url": "https://github.com/viveke22/anime-latest-name/issues"
