@@ -1,6 +1,6 @@
 {
   "name": "anime-latest-name",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "a package which generates random latest anime names",
   "main": "index.js",
   "scripts": {
